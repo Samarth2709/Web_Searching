@@ -1,0 +1,55 @@
+EDGAR | Company Search Results
+FAQ
+EDGAR search tools
+Feedback
+Classic version
+Home » Company Search
+Ocean Drive Acquisition Corp. ODAC on null
+[+] Company Information
+
+
+
+
+
+
+
+
+
+
+
+Filings
+All
+Search table
+From Date (yyyy-mm-dd)
+To Date (yyyy-mm-dd)
+Clear
+
+Keywords:
+Search text in documents
+Show columns:
+Form type
+Form description
+Filing date
+Reporting date
+Act
+Film number
+File number
+Accession number
+Size
+...Grid Refreshed
+Copy to clipboard CSV Excel Print RSS feed
+Form
+type Form
+description Filing
+date Reporting
+date
+
+
+
+
+S-1
+General form for registration of securities under the Securities Act of 1933
+Filing
+2021-03-11
+Showing 1 to 1 of 1 entries
+Data source: CIK0001849074.json
